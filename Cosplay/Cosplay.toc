@@ -1,0 +1,18 @@
+## Interface: 60200
+## Title: Cosplay
+## Notes: Adds a button to undress the model in the Dressing room.
+## Notes-esES: Agrega un boton para desnudar al modelo en el vestuario.
+## Version: 60200-1
+## Author: phyber
+## OptionalDeps: Ace3, Skinner
+## SavedVariables: CosplayDB
+## X-Credits: HAXNINJA (UndressButton author)
+## Deps: Ace3
+## X-Category: Interface Enhancements
+## X-Curse-Packaged-Version: 60200-1
+## X-Curse-Project-Name: Cosplay
+## X-Curse-Project-ID: cosplay
+## X-Curse-Repository-ID: wow/cosplay/mainline
+
+Locales\locales.xml
+Cosplay.lua
