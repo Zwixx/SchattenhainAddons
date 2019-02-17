@@ -1,6 +1,6 @@
 ## Interface: 60001
-## Title: WoW-API-Korrekturen für Schattenhain
-## Notes: -
+## Title: _API_SCHATTENHAIN
+## Notes: WoW-API-Korrekturen für Schattenhain
 ## Author: Unejal
 ## Version: 0.0.0.1
 
