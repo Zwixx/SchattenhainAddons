@@ -1,0 +1,12 @@
+tag 2.15-Release5
+4d423cb78e8ba857df473ee181a79c03c0a65cc5
+Hizuro <hizuro@gmx.net>
+2016-05-21 06:39:59 +0200
+
+Tagging as 2.15-Release5
+
+
+--------------------
+
+Hizuro:
+	- friends: added filtering duplicates as workaround for blizzard battlenet bug
